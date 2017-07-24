@@ -1,0 +1,15 @@
+ff34e78448e7f97f89d2539229b01876 *DESCRIPTION
+e3d858fd9357fe3647dd13099ec11a86 *NAMESPACE
+40a616bd3b63cf02aa18b54acef6245b *R/pcensmix.R
+5502aab690e4e37875c3f958b5d34241 *data/blood.rda
+c7e2289ae2fb878c2aa88424e6d3d378 *data/insulate.rda
+13112337e02e7fbef165756325d0c74d *man/blood.Rd
+b6ff477c077315808fcf841c87035b94 *man/insulate.Rd
+e17febc0b589cf5e7f1a05fc0d190f76 *man/mixgen.Rd
+01143411c7a0206f50e8df0066599656 *man/pcensmix-internal.Rd
+f61cc4b0293e1c6b700f56487b516ad0 *man/pcensmix-package.Rd
+dd603d8ac4b08a41b335f2c4a5694452 *man/pcensmixR.Rd
+7fe2fceef37a6ce8a6a553c2911d631c *man/pcensmixSim.Rd
+4e51c4e454d58687c52cdb38ed3ad4ad *man/pcgen.Rd
+7806dda11e23ef50a17eada2806a3ce1 *man/print.pcgen.Rd
+29351edc13830947ace767140db5b899 *man/run_pcensmix.Rd
